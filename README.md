@@ -24,7 +24,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Il s'agit d'un projet développé avec le framework Backend Nodejs [Nest](https://github.com/nestjs/nest). Cette application
+met en place un mini store, avec possibilité de connexion, un système de panier et paiements.
 
 ## Installation
 
