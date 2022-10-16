@@ -1,4 +1,5 @@
 import validator from 'validator';
+import { Express } from 'express';
 
 export class ProductValidator {
   static imageWhiteList: string[] = [
