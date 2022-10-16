@@ -27,7 +27,12 @@
 Il s'agit d'un projet développé avec le framework Backend Nodejs [Nest](https://github.com/nestjs/nest). Cette application
 met en place un mini store, avec possibilité de connexion, un système de panier et paiements.
 
+## Demo
+
+Lien de la demo : [Msus Online store](https://msus-online-store.herokuapp.com)
+
 ## Installation
+
 
 ```bash
 $ npm install
